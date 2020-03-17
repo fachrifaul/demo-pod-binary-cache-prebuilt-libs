@@ -1,0 +1,23 @@
+PODS:
+  - ConfigService (0.0.1)
+  - FFLog (0.1.2)
+
+DEPENDENCIES:
+  - ConfigService (from `DevPods/ConfigService`)
+  - FFLog
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FFLog
+
+EXTERNAL SOURCES:
+  ConfigService:
+    :path: DevPods/ConfigService
+
+SPEC CHECKSUMS:
+  ConfigService: 4418ba54c827f960a92421b3cf092ff9938e9e0a
+  FFLog: 0fef641ec1fffda05ddc090b6c08070d555b5f6e
+
+PODFILE CHECKSUM: e51d1c71e26ff6c6b0412855982712bad2a3e083
+
+COCOAPODS: 1.7.5
